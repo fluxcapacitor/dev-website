@@ -1,0 +1,21 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- AI and ML Tools -->
+  <rect x="50" y="50" width="150" height="50" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="60" y="80" font-size="12" fill="black">AI/ML Tools</text>
+
+  <!-- Community Collaboration -->
+  <rect x="250" y="50" width="150" height="50" fill="lightgreen" stroke="black" stroke-width="2"/>
+  <text x="260" y="80" font-size="12" fill="black">Community Collaboration</text>
+
+  <!-- Open-Source Contribution -->
+  <rect x="150" y="180" width="150" height="50" fill="lightpink" stroke="black" stroke-width="2"/>
+  <text x="160" y="210" font-size="12" fill="black">Open-Source AI</text>
+
+  <!-- Arrows pointing to the future -->
+  <line x1="100" y1="100" x2="200" y2="150" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="300" y1="100" x2="200" y2="150" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="180" y1="230" x2="200" y2="150" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Future AI Text -->
+  <text x="170" y="140" font-size="16" font-weight="bold" fill="black">Future of AI</text>
+</svg>
